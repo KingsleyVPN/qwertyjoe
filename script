@@ -74,7 +74,7 @@ $RESET"
  
  echo -e "                $RED
 |    
-               Ubunto SETUP by Leakers King
+               Ubunto SETUP by Michaele Abalos
 $RESET"
 }
 services () {
@@ -113,11 +113,11 @@ servercert='Certificate:
         Version: 3 (0x2)
         Serial Number: 1 (0x1)
     Signature Algorithm: sha256WithRSAEncryption
-        Issuer: C=PH, ST=Camarines Sur, L=Bikol, O=LeakersVPN, OU=LeakersVPN, CN=leakers-vpn.ph/name=server/emailAddress=leakersvpn@gmail.com
+        Issuer: C=PH, ST=Batangas, L=Batangas, O=SavageVPN, OU=SavageVPN, CN=savage-vpn.tk/name=server/emailAddress=savage99@gmail.com
         Validity
             Not Before: Apr 20 04:53:44 2018 GMT
             Not After : Apr 17 04:53:44 2028 GMT
-        Subject: C=PH, ST=Camarines Sur, L=Bikol, O=LeakersVPN, OU=LeakersVPN, CN=leakers-vpn.ph/name=server/emailAddress=leakersvpn@gmail.com
+        Subject: C=PH, ST=Batangas, L=Batangas, O=SavageVPN, OU=SavageVPN, CN=savage-vpn.tk/name=server/emailAddress=savage99@gmail.com
         Subject Public Key Info:
             Public Key Algorithm: rsaEncryption
                 Public-Key: (2048 bit)
